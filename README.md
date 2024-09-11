@@ -1,6 +1,12 @@
 WEEK 1
 
 WEEK 2
+
+Student Learning Outcomes (SLO):
+Upon completion of this course, the student will be able to
+SLO# 1: Identify components of a database system. (This week we introduce different aspects of the design of a database system. Your assignment for this week assesses some design issues of an unorganized list)
+Assignment 1, Quiz 1 aligns with SLO #1
+
 Chapter 1
 Unit1Chapter1 [https://www.youtube.com/watch?v=tVuZOiQ6FRg]
 COP 2700 Unit1 Part2 (https://www.youtube.com/watch?v=11PMXxWxgXw)
@@ -13,11 +19,8 @@ https://www.youtube.com/watch?v=cNesTw6SzpI
 
 Week 3
 Student Learning Outcomes (SLO):
-
 Upon completion of this course, the student will be able to
-
 SLO #1: Identify components of a database system. (This week we introduce basic design components. We discuss relational models and see the application of keys in a relational databases.)
-
 Assignment 2, Quiz 2 aligns with SLO #1
 
 https://www.youtube.com/watch?v=lMcx6QJxVsY
